@@ -1,0 +1,15 @@
+{
+    "name": "the-power-of-visualization-techniques-how-to-use-mental-imagery-to-boost-your-performance",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "honkit": "^4.0.7"
+    }
+}
