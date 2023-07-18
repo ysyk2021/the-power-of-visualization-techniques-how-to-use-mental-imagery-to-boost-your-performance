@@ -8,5 +8,4 @@ In the pages that follow, you'll learn about the science behind visualization, h
 
 Whether you're an athlete looking to improve your performance, an entrepreneur looking to achieve your business goals, or simply someone looking to unlock your full potential, "The Power of Visualization Techniques" offers valuable insights and strategies for success. Let's get started on this journey of self-discovery and growth together!
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
