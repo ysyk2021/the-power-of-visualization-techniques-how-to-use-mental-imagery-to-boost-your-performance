@@ -1,4 +1,4 @@
-Strategies for using these techniques to develop a strong foundation for successful visualization
+Strategies For Using These Techniques To Develop A Strong Foundation For Successful Visualization
 ===========================================================================================================================================
 
 In this chapter, we will explore the benefits of visualization and provide strategies for using these techniques to develop a strong foundation for successful visualization.
