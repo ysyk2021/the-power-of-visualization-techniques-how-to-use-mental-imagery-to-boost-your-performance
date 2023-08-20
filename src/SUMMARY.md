@@ -3,7 +3,6 @@
 - [Introduction](README.md)
   - [Explanation of the importance of visualization techniques in personal and professional growth](chapter-1-1.md)
   - [Overview of the benefits of using mental imagery to improve performance](chapter-1-2.md)
-  - [Brief on how the book will help readers develop a better understanding of visualization techniques and use them to achieve their goals](chapter-1-3.md)
 - [Chapter 1: Understanding Visualization Techniques](chapter-2.md)
   - [Understanding the fundamentals of visualization techniques and their impact on personal growth](chapter-2-1.md)
   - [Techniques for cultivating a mindset towards effective visualization](chapter-2-2.md)

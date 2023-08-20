@@ -16,24 +16,23 @@ MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. H
 
 1. Visualization techniques
 2. Mental imagery
-3. Positive psychology
-4. Self-discovery
-5. Motivation techniques
-6. Goal setting
-7. Success mindset
-8. Leadership development
-9. Communication skills
-10. Entrepreneurship
-11. Career advancement
-12. Mastery of skills
-13. Mindfulness practices
-14. Emotional intelligence
-15. Creative visualization
-16. Health and wellness
-17. Sports psychology
-18. Talent management
-19. Mentoring and coaching
-20. Personal growth
-
+3. Performance enhancement
+4. Mind power
+5. Imagination
+6. Cognitive visualization
+7. Focus and concentration
+8. Goal setting
+9. Self-improvement
+10. Peak performance
+11. Positive mindset
+12. Creative visualization
+13. Mind-body connection
+14. Success visualization
+15. Visualization exercises
+16. Visualization for athletes
+17. Manifesting desires
+18. Performance psychology
+19. Visualization for personal growth
+20. Visualization and goal achievement
 
 
