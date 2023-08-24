@@ -1,5 +1,3 @@
-Overview of the Benefits of Using Mental Imagery to Improve Performance
-================================================================================
 
 In this chapter, we will explore the numerous benefits of using mental imagery as a powerful tool to enhance performance across various domains. Mental imagery, also known as visualization or mental rehearsal, involves creating vivid mental images of desired outcomes or experiences. By harnessing the power of mental imagery, individuals can unlock their full potential and achieve greater success in their endeavors. Let's delve into the key benefits:
 

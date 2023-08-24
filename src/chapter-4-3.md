@@ -1,5 +1,3 @@
-Strategies for Creating a Customized Visualization Routine that Aligns with Personal Objectives
-===========================================================================================================
 
 In this chapter, we will explore strategies for creating a customized visualization routine that aligns with your personal objectives. By tailoring your visualization practice to your specific goals and aspirations, you can maximize its effectiveness in boosting your performance and achieving success. Let's delve into the strategies for creating a personalized visualization routine.
 

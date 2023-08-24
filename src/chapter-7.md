@@ -1,5 +1,3 @@
-Chapter 6: Navigating Challenges in Visualization
-=================================================
 
 In this chapter, we will explore techniques for managing setbacks and overcoming resistance that may arise when practicing visualization. Despite the many benefits of visualization, it can be challenging to stay consistent and motivated over time.
 

@@ -1,5 +1,3 @@
-Techniques for Setting Clear and Measurable Goals for Visualization Practice
-=======================================================================================
 
 In this chapter, we will explore techniques for setting clear and measurable goals specifically for your visualization practice. By establishing well-defined objectives, you can enhance the effectiveness of your visualization sessions and track your progress more effectively. This chapter will guide you on how to set clear and measurable goals for your visualization practice.
 

@@ -1,5 +1,3 @@
-Techniques for Understanding the Principles of Effective Visualization
-===============================================================================
 
 In this chapter, we will explore various techniques that can help you understand and apply the principles of effective visualization. By mastering these techniques, you can harness the power of mental imagery to boost your performance and achieve your goals. Let's delve into the key techniques:
 

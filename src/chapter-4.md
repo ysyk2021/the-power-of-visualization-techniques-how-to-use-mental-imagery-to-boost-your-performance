@@ -1,5 +1,3 @@
-Chapter 3: Developing an Effective Visualization Routine
-========================================================
 
 In this chapter, we will explore the role of an effective visualization routine in personal and professional development. We will also examine techniques for setting clear and measurable goals for visualization practice and strategies for creating a customized visualization routine that aligns with personal objectives.
 

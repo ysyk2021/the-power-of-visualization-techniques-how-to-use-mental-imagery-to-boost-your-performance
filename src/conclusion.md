@@ -1,4 +1,3 @@
-# Conclusion
 
 In this book, we have explored the power of visualization techniques and how to use mental imagery to boost your performance. We covered a range of different topics, including:
 
